@@ -1,4 +1,4 @@
-# 🏏 Digital Hand Cricket
+#  Digital Hand Cricket Game
 
 A virtual recreation of the classic hand cricket game built in C++, featuring multiple teams, customizable match formats, difficulty levels, and interactive gameplay mechanics.
 
@@ -119,7 +119,7 @@ g++ -o handcricket HandCricket2024.cpp
 
 ---
 
-## 🚧 Future Improvements
+##  Future Improvements
 
 Possible future additions:
 - Multiplayer mode
@@ -131,12 +131,18 @@ Possible future additions:
 
 ---
 
-## 📖 Academic Context
+##  Academic Context
 
 This project was developed as part of a university coursework project focused on programming fundamentals, game logic, and interactive application development using C++.
 
 ---
 
-## 🔗 GitHub Repository
+##  Note
 
-Add your repository link here.
+ The current version is optimized for macOS.
+ 
+---
+
+##  GitHub Repository
+
+https://github.com/ZahraAbbas595/DigitalHandCricket/tree/main
